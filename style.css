@@ -38,3 +38,9 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+    margin-top: 20px;
+}
