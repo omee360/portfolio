@@ -25,3 +25,16 @@ button {
     border: none;
     cursor: pointer;
 }
+nav {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: navy;
+}
+nav a:hover {
+    text-decoration: underline;
+}
